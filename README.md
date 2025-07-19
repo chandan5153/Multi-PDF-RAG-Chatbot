@@ -1,5 +1,7 @@
 # Multi-PDF-RAG-Chatbot
 A simple multi-PDF RAG bot using LangChain, FAISS, and Ollama for local document question answering.
+
+
 🧠 Multi-PDF RAG Chatbot using LLaMA 3
 This project is a local RAG (Retrieval-Augmented Generation) chatbot that can read and answer questions from multiple PDF files using LLaMA 3 running on Ollama, without needing OpenAI API keys.
 
