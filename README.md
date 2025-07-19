@@ -24,6 +24,8 @@ Ollama (LLaMA 3)
 FAISS
 PyMuPDF
 dotenv
+
+
 ####🧪 How to Run
 Install Ollama & pull model
 
