@@ -46,8 +46,6 @@ python app.py
 🖼️ Sample Output
 
 ####🚀 Future Enhancements
-Build a web-based interface using Streamlit or Flask
-Add a file upload feature for dynamic PDF processing
 Integrate embedding caching to avoid recomputation
 Optionally serve as a local personal assistant bot
 
