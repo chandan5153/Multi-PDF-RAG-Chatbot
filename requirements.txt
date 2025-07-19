@@ -1,0 +1,10 @@
+langchain>=0.1.13
+langchain_community>=0.0.30
+langchain_ollama>=0.0.6
+faiss-cpu>=1.7.4
+pypdf>=3.15.0
+tiktoken>=0.5.1
+chromadb>=0.4.24
+python-dotenv>=1.0.1
+unstructured>=0.12.3
+ollama>=0.1.26
