@@ -44,6 +44,8 @@ python app.py
 
 
 🖼️ Sample Output
+<img width="1829" height="674" alt="image" src="https://github.com/user-attachments/assets/aaa14899-3ac7-4471-8ef8-819f62a167b0" />
+
 
 ####🚀 Future Enhancements
 Integrate embedding caching to avoid recomputation
